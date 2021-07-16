@@ -1,7 +1,7 @@
 # Online Rich Text-Based Editor
 
 
-<h4>Deployed @ <a target="_blank" href="https://rich-text-editor-hk99wlz1d-imperialwarrior.vercel.app/">https://rich-text-editor-hk99wlz1d-imperialwarrior.vercel.app/</a></h4>
+<h4>Deployed @ <a target="_blank" href="https://rich-text-editor-hk99wlz1d-imperialwarrior.vercel.app/">Vercel</a></h4>
 
 <p>The Editor was Developed with the inspiration of The Google Docs UI and Functionality</p>
 
